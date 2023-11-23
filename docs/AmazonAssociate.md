@@ -1,21 +1,10 @@
 # Support Sawppy via Amazon Associates Program
-Sawppy the Rover is a project done out of love of our interplanetary robotic
-explorers Curiosity and Perseverance. Sawppy's design and instructions for
-construction are shared with other rover lovers free of charge under the
-permissive MIT license.
 
-Some very generous people have offered to donate to
-help the project. I have declined offers of direct donation, but I have
-set up an Amazon Affiliates account based on suggestion. If an aspiring
-rover builder buys components from Amazon (USA) using the links
-below, they will pay the same price but Amazon will send a (very small)
-percentage of the sale to me as sales commission.
-Here is the boilerplate disclosure:
-_As an Amazon Associate I earn from qualifying purchases._
+Sawppy the Rover is a project done out of love of our interplanetary robotic explorers Curiosity and Perseverance. Sawppy's design and instructions for construction are shared with other rover lovers free of charge under the permissive MIT license.
 
-I have other links to Amazon products scattered throughout Sawppy
-documentation, but they are generic links that do not earn commission.
-This is the only page with affiliate links.
+Some very generous people have offered to donate to help the project. I have declined offers of direct donation, but I have set up an Amazon Affiliates account based on suggestion. If an aspiring rover builder buys components from Amazon (USA) using the links below, they will pay the same price but Amazon will send a (very small) percentage of the sale to me as sales commission. Here is the boilerplate disclosure: _As an Amazon Associate I earn from qualifying purchases._
+
+I have other links to Amazon products scattered throughout Sawppy documentation, but they are generic links that do not earn commission. This is the only page with affiliate links.
 
 __Name__ | __Specific__ | __Generic__ | __Comments__
 --- | --- | --- | ---
@@ -44,8 +33,8 @@ Power Switch | [Conwork SPST](https://amzn.to/2ApRB4L) | | (Optional) This one f
 Voltage LED | [Baite](https://amzn.to/364aeqD) | | (Optional) This one fits in my power panel
 Low Battery Alarm | [Woafly](https://amzn.to/3fVtOdt) | | (Optional) Connected to battery's balancing plug
 
+## Legend
 
-### Legend:
 * __Name__ used in Sawppy documentation.
 * __Specific__ This is the specific item for my own Sawppy and I am happy with my first hand experience.
 * __Generic__ This is the general category of items. Not specifically on board my rover but they should all work just fine. (If it's a link to a specific item: I was not happy with my experience, but it was nominally usable.)

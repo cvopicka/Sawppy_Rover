@@ -1,11 +1,11 @@
 # Differential Assembly
 
-The differential pivots about the center of the rover body to distribute suspension motion across
-to the other side of the rover.
+The differential pivots about the center of the rover body to distribute suspension motion across to the other side of the rover.
 
 **Estimated Time:** 45 minutes
 
 **Parts:**
+
 * All [printed differential components](Print%20Differential.md)
 * 1 * 8mm diameter 300mm long steel shaft
 * 1 * [238mm aluminum beam](Misumi%20HFS%203.md)

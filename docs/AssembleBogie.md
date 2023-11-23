@@ -5,6 +5,7 @@ Bogie portion of the suspension links the middle wheel to the rear wheel.
 **Estimated Time:** 30 minutes per side = 1 hour total
 
 **Parts:**
+
 * 1 * [117mm aluminum beam](Misumi%20HFS%203.md)
 * 1 * [122mm aluminum beam](Misumi%20HFS%203.md)
 * 1 * [Rear steering corner](Print%20Corner%20Steering%20Joints.md#rear-corners)
@@ -36,13 +37,8 @@ The Rear Corner should extend out away from the body when the assembly is mounte
 Repeat for other side of rover.
 
 ## Sawppy V1 Errata
-Sawppy v1 has a design flaw where it is easy to make the mistake of using the
-left side Bogie-Wheel part on the right side of the rover. (And vice-versa.) Several
-rover builders were caught by this, and I am contemplating several ways to improve. In the
-meantime please be aware: If a Sawppy rover's two middle wheels are splayed out
-rather than parallel with each other and aligned with the body, it is because their
-Bogie-Wheel parts had been installed left-right reversed from intended. (Thanks to
-[Tim](https://hackaday.io/timing2211) for sharing these pictures.)
+
+Sawppy v1 has a design flaw where it is easy to make the mistake of using the left side Bogie-Wheel part on the right side of the rover. (And vice-versa.) Several rover builders were caught by this, and I am contemplating several ways to improve. In the meantime please be aware: If a Sawppy rover's two middle wheels are splayed out rather than parallel with each other and aligned with the body, it is because their Bogie-Wheel parts had been installed left-right reversed from intended. (Thanks to [Tim](https://hackaday.io/timing2211) for sharing these pictures.)
 
 Correct | Bogie-Wheel part reversed left-right
 --- | ---

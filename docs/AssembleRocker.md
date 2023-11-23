@@ -1,11 +1,11 @@
 # Rocker Assembly
 
-Rocker portion of suspension arm links the front wheel to the bogie assembly.
-The whole suspension subassembly is then mounted to the main body box.
+Rocker portion of suspension arm links the front wheel to the bogie assembly. The whole suspension subassembly is then mounted to the main body box.
 
 **Estimated Time:** 30 minutes each * 2 sides = 1 hour total
 
 **Parts:**
+
 * 1 * [161mm aluminum beam](Misumi%20HFS%203.md)
 * 1 * [182mm aluminum beam](Misumi%20HFS%203.md)
 * 1 * [Bogie fixed end](Print%20Suspension%20Bogie%20Joints.md#bogie-fixed)

@@ -1,13 +1,8 @@
 # Sawppy the Rover
+
 ## $500 Budget breakdown
 
-Sawppy the Rover was designed with the price target of a basic rolling chassis for
-under $500 in parts. This chart breaks down general areas of spending.
-Prices in this chart are in United States dollars and reflect rough
-price range available within the USA. Bargain hunters may be able to
-get these parts for closer to $400. On the flip side, I've been told
-some of these parts cost significantly more outside of US. This is
-only a rough guideline.
+Sawppy the Rover was designed with the price target of a basic rolling chassis for under $500 in parts. This chart breaks down general areas of spending. Prices in this chart are in United States dollars and reflect rough price range available within the USA. Bargain hunters may be able to get these parts for closer to $400. On the flip side, I've been told some of these parts cost significantly more outside of US. This is only a rough guideline.
 
 | Component | Price | Notes |
 |:---------:|:-----:|:-----:|

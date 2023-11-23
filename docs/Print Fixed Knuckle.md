@@ -7,19 +7,22 @@ The two fixed knuckles connect the middle non-steerable wheels to the aluminum e
 **3D Printing STL File:** [Fixed Knuckle.stl](../STL/Fixed%20Knuckle.stl)
 
 **3D Printing Notes:**
+
 * We will need two of these objects, one for each side of rover suspension. One must be printed mirror-image of the other.
 * Example print durations:
   * Fast PLA rough draft: 3.5 hours each * 2 knuckles = 7 hours total.
   * Slow PETG final draft: 5.5 hours each * 2 knuckles = 11 hours total.
 
-**Post-Processing**
+**Post-Processing:**
 
 Estimated time: 2.5 minutes per knuckle * 2 knuckles = 5 minutes total.
 
 **Tools:**
+
 * (Optional) C-clamp or arbor press
 
 **Parts:**
+
 * 3D printed fixed knuckle
 * 2 * Type 608 bearings
 
