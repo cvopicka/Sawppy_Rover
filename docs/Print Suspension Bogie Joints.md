@@ -4,7 +4,7 @@ These two parts build a pivot joint for the bogie portion of Sawppy's [Rocker-Bo
 
 **CAD source** [Bogie Joint](https://cad.onshape.com/documents/43678ef564a43281c83e1aef/w/392bbf8745395bc24367a35c/e/bc12cd957a8285083c1ffbad)
 
-### Bogie Pivot
+## Bogie Pivot
 
 This part houses the two type 608 bearings and two aluminum extrusion beams, one connecting to mid wheel assembly and the other connecting to rear corner wheel assembly.
 
@@ -34,7 +34,7 @@ Use a drill to remove bridge assist layers on 4 bolt holes facing the print bed.
 
 Install two bearings - one left and one right - onto each pivot piece.
 
-### Bogie Fixed
+## Bogie Fixed
 
 This will become part of the rocker assembly, housing the 8mm shaft the bogie will pivot on.
 
